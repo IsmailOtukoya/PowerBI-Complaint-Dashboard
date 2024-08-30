@@ -3,10 +3,13 @@
 This repository contains a Power BI dashboard designed to analyze and visualize customer complaints data. The dashboard helps businesses monitor and improve their customer service by providing insights into key metrics such as average resolution time, complaint distribution by category, and the proportion of resolved vs. unresolved complaints.
 
 ## Dashboard Features
-Average Resolution Time: Shows the average number of days taken to resolve complaints.
-Total Complaints by Category: Visualizes the number of complaints across various categories like Service, Technical Support, Product Quality, Delivery, and Billing.
-Resolution Status Distribution: Displays the proportion of complaints that are resolved versus unresolved.
-Complaint Trends Over Time: Tracks the average resolution time over the course of the year.
+- Average Resolution Time: Shows the average number of days taken to resolve complaints.
+  
+- Total Complaints by Category: Visualizes the number of complaints across various categories like Service, Technical Support, Product Quality, Delivery, and Billing.
+  
+- Resolution Status Distribution: Displays the proportion of complaints that are resolved versus unresolved.
+  
+- Complaint Trends Over Time: Tracks the average resolution time over the course of the year.
 
 ## Explore the Dashboard:
 Interact with the visuals by using the slicers to filter data by date, category, and resolution status.
