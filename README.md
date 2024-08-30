@@ -34,13 +34,19 @@ Normalized certain columns to bring them onto a comparable scale.
 The Python script used for this process is included in the repository as data_cleaning_and_transformation.py.
 
 # Key Insights
-Resolution Efficiency: The average resolution time was found to be 12.4 days, with the month of July showing the highest resolution time, indicating possible seasonal challenges or increased complaint complexity.
-Complaint Distribution: The most common categories for complaints were Service and Technical Support, highlighting areas where the company could focus on improving customer satisfaction.
-Resolution Success Rate: Approximately 81.3% of complaints were resolved, leaving about 18.7% unresolved. This indicates a need for a more robust resolution process.
-Repository Contents
+- Resolution Efficiency: The average resolution time was found to be 12.4 days, with the month of July showing the highest resolution time, indicating possible seasonal challenges or increased complaint complexity.
+  
+- Complaint Distribution: The most common categories for complaints were Service and Technical Support, highlighting areas where the company could focus on improving customer satisfaction.
+  
+- Resolution Success Rate: Approximately 81.3% of complaints were resolved, leaving about 18.7% unresolved. This indicates a need for a more robust resolution process.
+
+# Repository Contents
 Complaints_Dashboard.pbix: The Power BI dashboard file.
 dataset/: Folder containing the raw and cleaned datasets.
 data_cleaning_and_transformation.py: Python script used for data cleaning and transformation.
 README.md: This document, providing an overview of the project.
 # Contact
 If you have any questions or feedback, feel free to reach out via GitHub or LinkedIn.
+
+![Screenshot 2024-08-30 115740](https://github.com/user-attachments/assets/d12177a4-8de9-4eb5-b180-3cfe439878f9)
+
